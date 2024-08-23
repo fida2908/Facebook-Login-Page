@@ -1,0 +1,133 @@
+.header{
+    background: #3b5998;
+    height: 85px ;
+    width: 100% ;
+}
+body{
+    margin: 0;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.logo{
+    width: 50% ;
+    padding-top: 32px;
+    float: left;
+}
+.login{
+    width: 50%;
+    float: left;
+}
+.logo-text{
+    color: #fff;
+    font-size: 43px;
+    text-decoration: none;
+    font-weight: bold;
+    margin-left: 170px;
+    font-family: Arial, Helvetica, sans-serif;
+
+}
+.login-label{
+    color: #fff;
+    font-size: 13px;
+}
+.login-forgot{
+    color: rgb(40, 40, 80);
+    font-size: 13px;
+}
+.login-controls{
+    padding-left: 115px;
+    margin-top: 11px;
+}
+.login-button{
+    background: #4267b2;
+    color: #fff;
+    cursor: pointer;
+}
+.login-button:hover{
+    background:rgb(91, 91, 117);
+}
+.left-part{
+    width: 60%;
+    float: left;
+}
+.right-part{
+    width: 40%;
+    float: left;
+}
+.fb-body{
+    background: linear-gradient(white, #D3D8E8);
+    width: 100%;
+    height: 700px;
+}
+.body-para{
+    color: rgb(23, 23, 79);
+    font-weight: bold;
+    margin-left: 172px;
+    font-family: Arial, Helvetica, sans-serif;
+    margin-top: 50px;
+    font-size: 21px;
+}
+.fb-image{
+    margin-left: 172px;
+    margin-top: 10px;
+}
+.create-ac{
+    font-size: 33px;
+    margin-top: 45px;
+    font-weight: bold;
+}
+.quick{
+    margin-block-start: 0px ;
+}
+.mobile{
+    padding-inline-end: 176px;
+    margin-top: 10px;
+    padding-top: 6px;
+    padding-bottom: 6px;
+}
+.pass{
+    padding-inline-end: 176px;
+    margin-top: 10px;
+    padding-top: 6px;
+    padding-bottom: 6px;
+}
+.name{
+    padding-top: 6px;
+    padding-bottom: 6px;
+}
+.bdy{
+    font-weight: bold;
+    color: grey;
+    margin-top: 30px;
+    font-size: 15px;
+}
+.radio{
+    font-size: 15px;
+    font-family:  'Open Sans', 'Helvetica Neue', sans-serif;
+    margin-bottom: 15px;
+    margin: 15px;
+}
+
+.policy{
+    font-size: 15px;
+    margin-top: 15px;
+}
+.submit{
+    padding-inline-end: 20px;
+    padding-inline-start: 20px;
+    background: rgb(17, 87, 17);
+    color: white;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    margin-bottom: 30px;
+    margin-top: 20px;
+}
+.page{
+    font-size: 15px;
+    text-decoration: none;
+    font-family: Arial, Helvetica, sans-serif;  
+    
+}
+.terms{
+    text-decoration: none;
+    font-size: 15px;
+}
